@@ -56,7 +56,7 @@ class _HomePageState extends State<HomePage> {
           // 📌 ÜSTTE ORTALI YAZI
           const Center(
             child: Text(
-              "Buraya istediğin Türkçe yazı",
+              "heklendin",
               textAlign: TextAlign.center,
               style: TextStyle(
                 color: Colors.black,
